@@ -1,8 +1,23 @@
-# React + Vite
+# Crypto Hustle Lite
+![](https://github.com/jasonthejiraffe/cap/blob/main/cap.gif)
+## Description
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+In this lab, you will develop an app that displays information about cryptocurrencies, such as their value, market cap, and percent change in value, which you will access using API calls. You will also implement a search bar that allows users to search for a specific currency.
 
-Currently, two official plugins are available:
+### Dependencies
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Node.js, Visual Studio Code
+
+## Authors
+
+Jason Lockett  
+School Email - jlockett2020@fau.edu
+
+## Version History
+
+* 0.1
+    * Initial Release
+
+## Acknowledgments
+
+* Codepath.org (WEB102 - Intermediate Web Development)
